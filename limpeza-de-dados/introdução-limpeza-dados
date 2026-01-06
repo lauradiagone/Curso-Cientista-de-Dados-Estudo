@@ -1,0 +1,6 @@
+"""
+Seção 10 – Introdução à Limpeza de Dados
+"""
+
+import pandas as pd
+
