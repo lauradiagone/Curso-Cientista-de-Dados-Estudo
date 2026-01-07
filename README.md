@@ -1,5 +1,7 @@
 # Curso Cientista de Dados – Estudos
 
+Estudos práticos em Ciência de Dados com Python, incluindo análise de dados, estatística, machine learning e aplicações em finanças.
+
 Este repositório reúne estudos, exercícios e projetos desenvolvidos durante minha formação em Ciência de Dados.
 
 ## Conteúdos abordados
