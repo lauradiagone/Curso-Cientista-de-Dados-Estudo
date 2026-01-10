@@ -1,0 +1,57 @@
+# 📊 Análise e Segmentação de Clientes do Varejo
+
+Este projeto realiza uma **Análise Exploratória de Dados** e a **Segmentação de Clientes** de um varejo utilizando **K-Means**, com o objetivo de identificar perfis de consumo e apoiar decisões estratégicas de negócio.
+
+O projeto foi desenvolvido como parte dos meus estudos em **Ciência de Dados**, aplicando conceitos fundamentais de estatística, visualização e machine learning.
+
+---
+
+## 🎯 Objetivo do Projeto
+
+- Compreender o comportamento dos clientes a partir dos dados
+- Identificar padrões de consumo
+- Criar grupos (clusters) de clientes semelhantes
+- Gerar insights que possam apoiar estratégias de marketing e negócio
+
+---
+
+## 🧠 Etapas do Projeto
+
+1. **Análise Inicial da Base de Dados**
+   - Visualização das variáveis
+   - Entendimento da estrutura dos dados
+
+2. **Tratamento e Preparação dos Dados**
+   - Seleção de variáveis relevantes
+   - Padronização dos dados
+
+3. **Definição do Número de Clusters**
+   - Método do Cotovelo (Elbow Method)
+
+4. **Aplicação do Algoritmo K-Means**
+   - Criação dos clusters
+   - Análise dos grupos formados
+
+5. **Interpretação dos Resultados**
+   - Caracterização dos perfis de clientes
+   - Insights estratégicos
+
+---
+
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
+- **Jupyter Notebook**
+
+---
+
+## 📂 Estrutura do Repositório
+
+```text
+├── Projeto_Varejo_KMeans.ipynb
+└── README.md
